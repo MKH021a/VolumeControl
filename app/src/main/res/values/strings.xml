@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">کنترل صدا</string>
+    <string name="tile_volume_up">صدا بالا</string>
+    <string name="tile_volume_down">صدا پایین</string>
+</resources>
